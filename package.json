@@ -1,0 +1,22 @@
+{
+  "author": "yurfuwa",
+  "name": "twclwl",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "dependencies": {
+    "request": "^2.81.0",
+    "twitter": "^1.7.1",
+    "url-regex": "^4.1.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
